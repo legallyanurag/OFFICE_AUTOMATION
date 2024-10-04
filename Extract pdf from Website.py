@@ -75,23 +75,23 @@ def extract_url_pdf(input_url,folder_path=os.getcwd()):
 
 #urls to try:
 
-# https://www.icai.org/category/bos-important-announcements
-# https://www.icai.org/post.html?post_id=17843
-#https://www.icai.org/post.html?post_id=17825
-# https://cbic-gst.gov.in/central-tax-notifications.html
-# https://trends.builtwith.com/websitelist/Responsive-Tables
+# https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d4
+# https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d4
+#https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d45
+# https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d4
+# https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d4
 
 
 # In[5]:
 
 
-extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
+extract_url_pdf(input_url="https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d4")
 
 
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
+extract_url_pdf(input_url="https://services.ecourts.gov.in/ecourtindia_v6/?p=courtorder/index&app_token=f93c8f8856f813415e3d5d2ee3e8dac2233f4e71478a4dfbfd704df1831a93d4")
 
 # https://cbic-gst.gov.in/central-tax-notifications.html
 
